@@ -1,0 +1,16 @@
+html {
+	min-height: 1000px;
+	padding-top: 80px;
+}
+
+#login .well {
+   background-color: white;
+}
+
+.thumbnail > img {
+    display: block;
+    height: 150px; /* add this */
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
