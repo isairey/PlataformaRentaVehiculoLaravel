@@ -353,25 +353,7 @@ http://127.0.0.1:8000
 - Ingresos mensuales
 - Supervisión del sistema
 
----
 
-# 📸 Vista previa
-
-<div align="center">
-
-### 🏠 Dashboard principal
-<img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?q=80&w=1200" width="900"/>
-
-### 🚘 Catálogo de vehículos
-<img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?q=80&w=1200" width="900"/>
-
-### 📅 Sistema de reservaciones
-<img src="https://images.unsplash.com/photo-1485291571150-772bcfc10da5?q=80&w=1200" width="900"/>
-
-### 📊 Panel administrativo
-<img src="https://images.unsplash.com/photo-1556740749-887f6717d7e4?q=80&w=1200" width="900"/>
-
-</div>
 
 ---
 
