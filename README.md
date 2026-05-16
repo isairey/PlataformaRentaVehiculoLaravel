@@ -169,7 +169,7 @@ El proyecto está enfocado en ofrecer una solución moderna, escalable y profesi
 # 📂 Estructura del proyecto
 
 ```bash
-Laravel-Car-Rental-System/
+PlataformaRentaVehiculoLaravel/
 │
 ├── app/
 │   ├── Http/
@@ -222,7 +222,7 @@ Laravel-Car-Rental-System/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/Laravel-Car-Rental-System.git
+git clone https://github.com/isairey/PlataformaRentaVehiculoLaravel.git
 ```
 
 ---
@@ -230,7 +230,7 @@ git clone https://github.com/isairey/Laravel-Car-Rental-System.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Laravel-Car-Rental-System
+cd PlataformaRentaVehiculoLaravel
 ```
 
 ---
